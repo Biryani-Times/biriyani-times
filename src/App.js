@@ -277,7 +277,7 @@ function App()
           <Extras type="Soups" items={soups}/>
           <Extras type="Papads" items={papads} />
           
-          <Extras type="ChineseDelights" items={chineseDelights} />
+          <Extras type="Chinese Delights" items={chineseDelights} />
           <Extras type="Starters" items={emptyItems} />
           <ExtrasWithoutType subtype="Gobi" items={GobiStarters} ></ExtrasWithoutType>
           <ExtrasWithoutType subtype="Panner" items={PannerStarters} ></ExtrasWithoutType>
