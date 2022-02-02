@@ -275,7 +275,7 @@ function App()
       <div className="menu">
           <Extras type="Salads" items={salads} />
           <Extras type="Soups" items={soups}/>
-          <Extras type="Papad's" items={papads} />
+          <Extras type="Papads" items={papads} />
           
           <Extras type="ChineseDelights" items={chineseDelights} />
           <Extras type="Starters" items={emptyItems} />
