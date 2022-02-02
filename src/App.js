@@ -260,6 +260,9 @@ function App()
   ]
   return (
     <>
+    <div style={{display:"flex",justifyContent:"center"}}>
+    <h1 style={{color:"white"}}> Biryani Times Menu</h1>
+    </div>
     <Provider>
       
       {/* <div className="menu">
